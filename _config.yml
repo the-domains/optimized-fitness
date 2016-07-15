@@ -1,14 +1,14 @@
-layout_spectrum: 0.9057116250041872
+layout_spectrum: 0.24870518315583467
 typography_spectrum: 0.866410501068458
 color:
-  brandStrength: 0.6088729063048959
-  lightness: 0.19078440917655826
-  saturation: 0.9424570868723094
-  rhythmicContrast: 0.3150500045157969
+  brandStrength: 0.16787346545606852
+  lightness: 0.6191810755990446
+  saturation: 0.7018761143554002
+  rhythmicContrast: 0.9545859971549362
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
 name: Optimized Fitness
