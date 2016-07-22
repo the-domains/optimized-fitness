@@ -1,16 +1,13 @@
 ---
 author: []
-dateModified: '2016-07-22T22:00:56.182Z'
-datePublished: '2016-07-22T22:01:12.176Z'
-description: >-
-  Optimized Fitness - The ability to move through your enviorment, starts with
-  what’s on your plate. It’s irrefutable that you're composed of what food you
-  digest. With that logic in mind, we optimize our diet to
+dateModified: '2016-07-22T22:02:36.680Z'
+datePublished: '2016-07-22T22:02:43.862Z'
+description: Optimizing Your Diet
 inFeed: true
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0305b7f0-e745-48e2-9ec7-5ef2cb7456c3.jpg
 publisher: {}
-title: Optimizing your Diet
+title: ''
 via: {}
 starred: false
 sourcePath: >-
@@ -19,9 +16,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![18 Hr Low Temperature Pork Roast, Organic Seasonal Vegetables, Coconut Rice with Pineapple](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b34e8652289fe640c3163a2c8c50b9d3/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f4af1c8-5656-4364-ad3e-c1f56dcb489d.jpg&x=0&y=0)
-
-# Optimizing your Diet
+Optimizing Your Diet
 
 Optimized Fitness - The ability to move through your enviorment, starts with what's on your plate. It's irrefutable that you're composed of what food you digest. With that logic in mind, we optimize our diet to
 
@@ -30,3 +25,4 @@ Optimized Fitness - The ability to move through your enviorment, starts with wha
 •Rid our body of toxins.
 
 •Optimize our body's nutrient intake.
+![18 Hr Low Temperature Pork Roast, Organic Seasonal Vegetables, Coconut Rice with Pineapple](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b34e8652289fe640c3163a2c8c50b9d3/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f4af1c8-5656-4364-ad3e-c1f56dcb489d.jpg&x=0&y=0)
