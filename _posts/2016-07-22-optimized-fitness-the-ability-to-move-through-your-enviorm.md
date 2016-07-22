@@ -1,7 +1,7 @@
 ---
 author: []
-dateModified: '2016-07-22T21:58:33.985Z'
-datePublished: '2016-07-22T21:58:42.006Z'
+dateModified: '2016-07-22T22:00:56.182Z'
+datePublished: '2016-07-22T22:01:12.176Z'
 description: >-
   Optimized Fitness - The ability to move through your enviorment, starts with
   what’s on your plate. It’s irrefutable that you're composed of what food you
