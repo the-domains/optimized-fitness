@@ -1,6 +1,7 @@
 ---
 author: []
-dateModified: '2016-07-22T21:47:52.272Z'
+dateModified: '2016-07-22T21:52:04.010Z'
+datePublished: '2016-07-22T21:52:23.813Z'
 description: >-
   Optimized Fitness - The ability to move through your enviorment, starts with
   what’s on your plate. It’s irrefutable that you're composed of what food you
@@ -8,10 +9,9 @@ description: >-
 inFeed: true
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0305b7f0-e745-48e2-9ec7-5ef2cb7456c3.jpg
-title: ''
 publisher: {}
+title: 'Limited Edition Meal @ Mission Heirloom in Berkeley '
 via: {}
-datePublished: '2016-07-22T21:48:05.150Z'
 starred: false
 sourcePath: >-
   _posts/2016-07-22-optimized-fitness-the-ability-to-move-through-your-enviorm.md
@@ -23,7 +23,7 @@ _type: Article
 
 Optimized Fitness - The ability to move through your enviorment, starts with what's on your plate. It's irrefutable that you're composed of what food you digest. With that logic in mind, we optimize our diet to
 
-•Give our bodies fuel. 
+•Give our bodies fuel.
 
 •Rid our body of toxins.
 
